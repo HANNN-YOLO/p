@@ -1,2 +1,4 @@
 <iostream>
 Project Kasir
+Calculator
+Membuat Tampilan UI berdasrkan bahasa C++
